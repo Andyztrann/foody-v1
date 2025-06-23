@@ -6,4 +6,5 @@ unique_ids:
     Form1: '1750653084538686004965101.971'
   modules: {}
   scripts: {}
-  server_modules: {}
+  server_modules:
+    ServerModule1: '1750654288656419683809508.52893'
